@@ -1,12 +1,12 @@
-# 👋 Hello, moi c’est Damla Karaarslan  
+# Hello, moi c’est Damla Karaarslan  
 
-🎓 **Étudiante en Master Conseil & Intervention – Projets informatiques et stratégie d’entreprise**  
-📍 Paris / Île-de-France  
-💡 À la croisée de l’**informatique**, de la **gestion de projet** et de l’**analyse business**
+**Étudiante en Master Conseil & Intervention – Projets informatiques et stratégie d’entreprise**  
+Paris / Île-de-France  
+À la croisée de l’**informatique**, de la **gestion de projet** et de l’**analyse business**
 
 ---
 
-## 🚀 À propos de moi  
+## À propos de moi  
 
 Je me forme à la **conception, au pilotage et à l’analyse de projets informatiques**, avec une forte sensibilité aux enjeux métiers et organisationnels.  
 Mon parcours mêle **économie, management et technologies**, ce qui me permet de faire le lien entre les besoins business et les solutions techniques.
@@ -19,16 +19,16 @@ J’aime :
 
 ---
 
-## 🛠️ Compétences techniques  
+## Compétences techniques  
 
-### 💻 Data & Développement
+### Data & Développement
 - **Python**, **C**, **C#** (bases académiques)
 - **SQL** (requêtes, fonctions de base)
 - **R (RStudio)** : tidyverse (dplyr, ggplot, visualisation)
 - **Power BI** : dashboards & data analysis
 - **Excel avancé** : TCD, fonctions SI, RechercheV
 
-### 📊 Systèmes d’information & gestion de projet
+### Systèmes d’information & gestion de projet
 - Analyse des besoins
 - Audit informatique
 - ERP (notions)
@@ -37,7 +37,7 @@ J’aime :
 
 ---
 
-## 📂 Ce que tu trouveras sur ce GitHub  
+## Ce que tu trouveras sur ce GitHub  
 
 🔹 Projets académiques en **programmation et data**  
 🔹 Travaux liés à la **gestion de projet informatique**  
@@ -48,7 +48,7 @@ J’aime :
 
 ---
 
-## 🌍 Langues  
+## Langues  
 
 - 🇫🇷 Français : courant  
 - 🇹🇷 Turc : courant  
@@ -57,11 +57,11 @@ J’aime :
 
 ---
 
-## 📬 Me contacter  
+## Me contacter  
 
-📧 **Email** : damlakaraarslan21@gmail.com  
-💼 **LinkedIn** : (https://www.linkedin.com/in/damla-karaarslan-0004dk/)
+**Email** : damlakaraarslan21@gmail.com  
+**LinkedIn** : (https://www.linkedin.com/in/damla-karaarslan-0004dk/)
 
 ---
 
-✨ *Toujours curieuse, en apprentissage continu et motivée par des projets à impact.*
+*Toujours curieuse, en apprentissage continu et motivée par des projets à impact.*
