@@ -37,12 +37,9 @@ J’aime :
 
 ---
 
-## Ce que tu trouveras sur ce GitHub  
+### 📊 Projets Data & Analyse
+- 📈 [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
 
-🔹 Projets académiques en **programmation et data**  
-🔹 Travaux liés à la **gestion de projet informatique**  
-🔹 Analyses et visualisations de données  
-🔹 Scripts, exercices et projets d’apprentissage  
 
 > Objectif : montrer **ma progression**, ma **rigueur** et ma **capacité à relier technique et stratégie**.
 
@@ -60,7 +57,7 @@ J’aime :
 ## Me contacter  
 
 **Email** : damlakaraarslan21@gmail.com  
-**LinkedIn** : (https://www.linkedin.com/in/damla-karaarslan-0004dk/)
+**LinkedIn** : https://www.linkedin.com/in/damla-karaarslan-0004dk/
 
 ---
 
