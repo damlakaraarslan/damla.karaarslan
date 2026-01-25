@@ -37,9 +37,10 @@ J’aime :
 
 ---
 
-### Projets Data & Analyse
+### Mes projets Data & Analyse
 -  [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
 - [Analyse du marché immobilier à Bondy (2017-2021) - R](https://github.com/damlakara21/immobilier-bondy-analyse-R)
+- [Évolution des opinions sur le divorce en Australie (World Values Survey + Chi²](https://github.com/damlakara21/evolution-opinions-divorce-australie-R)
 
 
 > Objectif : montrer **ma progression**, ma **rigueur** et ma **capacité à relier technique et stratégie**.
@@ -58,7 +59,7 @@ J’aime :
 ## Me contacter  
 
 **Email** : damlakaraarslan21@gmail.com  
-**LinkedIn** : https://www.linkedin.com/in/damla-karaarslan-0004dk/
+**LinkedIn** : [Damla Karaarslan](https://www.linkedin.com/in/damla-karaarslan-0004dk/)
 
 ---
 
