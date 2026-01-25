@@ -37,8 +37,9 @@ J’aime :
 
 ---
 
-### 📊 Projets Data & Analyse
-- 📈 [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
+### Projets Data & Analyse
+-  [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
+- [Analyse du marché immobilier à Bondy (2017-2021) - R](https://github.com/damlakara21/immobilier-bondy-analyse-R)
 
 
 > Objectif : montrer **ma progression**, ma **rigueur** et ma **capacité à relier technique et stratégie**.
