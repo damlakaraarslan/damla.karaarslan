@@ -38,10 +38,12 @@ J’aime :
 ---
 
 ### Mes projets Data & Analyse
--  [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
-- [Analyse du marché immobilier à Bondy (2017-2021) - R](https://github.com/damlakara21/immobilier-bondy-analyse-R)
-- [Évolution des opinions sur le divorce en Australie (World Values Survey + Chi²](https://github.com/damlakara21/evolution-opinions-divorce-australie-R)
-
+- [Optimisation de la stratégie Social Media – Excel](https://github.com/damlakara21/analyse-social-media-excel-datazine)
+- [Analyse du marché immobilier à Bondy (2017-2021) – R](https://github.com/damlakara21/immobilier-bondy-analyse-R)
+- [Évolution des opinions sur le divorce en Australie (World Values Survey + Chi²)](https://github.com/damlakara21/evolution-opinions-divorce-australie-R)
+- [Analyse du churn clients bancaires – SQL](https://github.com/damlakaraarslan/churn-clients-bancaires/)
+  - Dataset de 10 000 clients d’une banque européenne, analyse du taux de churn global et par segments (pays, genre, âge, produits, activité).
+  - Requêtes SQL avancées (agrégations, vues, fenêtres) et visualisations pour identifier les profils à risque et formuler des recommandations de rétention.
 
 > Objectif : montrer **ma progression**, ma **rigueur** et ma **capacité à relier technique et stratégie**.
 
