@@ -22,7 +22,6 @@ J’aime :
 ## Compétences techniques  
 
 ### Data & Développement
-- **Python**, **C**, **C#** (bases académiques)
 - **SQL** (requêtes, fonctions de base)
 - **R (RStudio)** : tidyverse (dplyr, ggplot, visualisation)
 - **Power BI** : dashboards & data analysis
